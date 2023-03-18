@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="helsinki" translatable="false">Helsinki</string>
+    <string name="minimum_temperature">Minimum Temperature:</string>
+    <string name="maximum_temperature">Maximum Temperature:</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="wind_gust">Wind Gust</string>
+    <string name="refresh">Refresh</string>
+    <string name="show_forecast_in_tampere">Show Forecast In Tampere</string>
+</resources>

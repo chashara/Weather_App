@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minimum_temperature">temperatura mínima</string>
+    <string name="maximum_temperature">temperatura máxima</string>
+    <string name="feels_like">Se siente como</string>
+    <string name="pressure">presión</string>
+    <string name="humidity">Humedad</string>
+    <string name="wind_speed">Velocidad del viento</string>
+    <string name="wind_gust">ráfaga de viento</string>
+    <string name="refresh">actualizar</string>
+    <string name="show_forecast_in_tampere">Mostrar pronóstico en tampere</string>
+</resources>

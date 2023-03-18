@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minimum_temperature">"  minimilämpötila"</string>
+    <string name="maximum_temperature">maksimi lämpötila</string>
+    <string name="feels_like">Tuntuu siltä:</string>
+    <string name="pressure">paine</string>
+    <string name="humidity">kosteus</string>
+    <string name="wind_speed">tuulen nopeus</string>
+    <string name="wind_gust">tuulenpuuska:</string>
+    <string name="refresh">virkistää</string>
+    <string name="show_forecast_in_tampere">Näytä ennuste Tampereella</string>
+</resources>
